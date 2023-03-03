@@ -1,0 +1,1 @@
+# validate-all-selectores-svg
